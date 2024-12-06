@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+resources/FilmAffinity/databases/discovered_links_backup.json
+resources/FilmAffinity/databases/films_database.json
+personal_hugging_face_token.txt
+*not-publish*
+resources/FilmAffinity/databases/

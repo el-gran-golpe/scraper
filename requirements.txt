@@ -1,0 +1,12 @@
+transformers~=4.24.0
+requests~=2.28.1
+lxml~=4.9.1
+loguru~=0.6.0
+ftfy~=6.1.1
+tqdm~=4.64.1
+setuptools~=65.5.0
+python-slugify
+firebase-admin
+
+spacy
+# remember to install python -m spacy download en_core_web_trf and python -m spacy download es_dep_news_trf
